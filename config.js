@@ -1,3 +1,3 @@
 export default {
-    token: "VOTRE_BOT_TOKEN"
-}
+    token: 'VOTRE_BOT_TOKEN',
+  };  
