@@ -70,14 +70,14 @@ Distributed under the Apache 2.0 license. See 'LICENSE' for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kiwiz 🥝 - [@Kiwiz](https://guns.lol/kiwiz) - kiwizgamepro@gmail.com
+Kiwiz - [@Kiwiz](https://guns.lol/kiwiz) - kiwizpro@duck.com
 
-Link of the project: [https://github.com/KiwizBot/KiwizBot-API-Client](https://github.com/KiwizBot/KiwizBot-API-Client)
+Link of the project : [https://github.com/KiwizBot/KiwizBot-API-Client](https://github.com/KiwizBot/KiwizBot-API-Client)
 
 <!-- DISCORD -->
 ## Discord
 
-Kiwiz 🥝 : kiwiz.js
+Kiwiz : kiwiz.js
 
 ## Prewiew
 <img align="center" src="example.png" width="100%"> 
